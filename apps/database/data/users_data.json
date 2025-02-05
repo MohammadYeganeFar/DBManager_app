@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+            "username": "john_doe",
+            "password": "hashed_password_123",
+            "email": "john.doe@example.com",
+            "created_at": "2024-03-20T10:00:00",
+            "created_timestamp": 1710928800,
+            "last_login": "2024-03-21T15:30:00",
+            "is_active": true,
+            "role": "user"
+        },
+        {
+            "username": "alice_smith",
+            "password": "hashed_password_456",
+            "email": "alice.smith@example.com",
+            "created_at": "2024-03-19T09:00:00",
+            "created_timestamp": 1710838800,
+            "last_login": "2024-03-21T14:45:00",
+            "is_active": true,
+            "role": "admin"
+        },
+        {
+            "username": "bob_wilson",
+            "password": "hashed_password_789",
+            "email": "bob.wilson@example.com",
+            "created_at": "2024-03-18T11:30:00",
+            "created_timestamp": 1710761400,
+            "last_login": "2024-03-20T16:20:00",
+            "is_active": true,
+            "role": "user"
+        },
+        {
+            "username": "emma_davis",
+            "password": "hashed_password_012",
+            "email": "emma.davis@example.com",
+            "created_at": "2024-03-17T14:15:00",
+            "created_timestamp": 1710684900,
+            "last_login": "2024-03-21T09:10:00",
+            "is_active": true,
+            "role": "user"
+        },
+        {
+            "username": "michael_brown",
+            "password": "hashed_password_345",
+            "email": "michael.brown@example.com",
+            "created_at": "2024-03-16T16:45:00",
+            "created_timestamp": 1710607500,
+            "last_login": "2024-03-19T11:25:00",
+            "is_active": false,
+            "role": "user"
+        },
+        {
+            "username": "ali",
+            "password": "secure_password",
+            "email": "new.user@example.com",
+            "role": "user",
+            "created_at": 1738784762.857057,
+            "last_login": 1738784762.857057
+        },
+        {
+            "username": "ali",
+            "password": "secure_password",
+            "email": "new.user@example.com",
+            "role": "user",
+            "created_at": 1738784765.259886,
+            "last_login": 1738784765.259886
+        }
+    ]
+}
